@@ -1,0 +1,32 @@
+body{
+  
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 150%;
+
+}
+header{
+  background-color:brown;
+
+}
+nav{
+  background-color: yellowgreen;
+}
+main{
+  backgorund-color:grey;
+  font-size:x-small;
+}
+footer{
+  background-color:aqua;
+}
+li{
+  display:contents;
+  width:16px;
+}
+h1{
+  text-align:end;
+  font-family:'Times New Roman', Times, serif;
+  color:beige;
+}
+p{
+  line-height:17px;
+}
